@@ -6,6 +6,9 @@
 ## Currency Symbols
 20C1 ⃁ RUBLE SIGN WITH DOUBLE VERTICAL STEM
 
+## Miscellaneous Symbols and Arrows
+2B96 ⮖ EQUALS SIGN WITH INFINITY ABOVE
+
 ## Latin Extended-D
 A7E2 ꟢ LATIN CAPITAL LETTER R WITH LONG LEG
 
